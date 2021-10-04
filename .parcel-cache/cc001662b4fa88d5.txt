@@ -1,0 +1,8 @@
+7
+70C:\Users\iampa\Documents\Generation\modulos\dist\index.6b9ca3e8.js.map132778359490251453 0
+51C:\Users\iampa\Documents\Generation\modulos\main.js132778358714921711 0
+48C:\Users\iampa\Documents\Generation\modulos\dist132778359490261455 1
+54C:\Users\iampa\Documents\Generation\modulos\index.html132778350330321576 0
+58C:\Users\iampa\Documents\Generation\modulos\operaciones.js132778359488500998 0
+66C:\Users\iampa\Documents\Generation\modulos\dist\index.6b9ca3e8.js132778359490191428 0
+59C:\Users\iampa\Documents\Generation\modulos\dist\index.html132778357213936894 0
